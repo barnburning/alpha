@@ -28,3 +28,5 @@ To install InPsyche to your Android device, just install the inpysche.apk using 
 * etc
 
 ![Alt text](https://github.com/barnburning/alpha/blob/master/floor2.png?raw=true "Floor")
+![Alt text](https://github.com/barnburning/alpha/blob/master/tangerine2.png?raw=true "Tangerine_Room")
+![Alt text](https://github.com/barnburning/alpha/blob/master/room_haemi2.png?raw=true "Haemi_Room")
