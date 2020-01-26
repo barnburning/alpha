@@ -1,7 +1,7 @@
 # InPsyche
 
 InPsyche is a Vr project based on the movie burning by Lee- Changdong (2018).
-The goal is to introduce filmgoers the many dualities and interpretations of the many facets of the movie. When playing the VR- game, the player enters different rooms originating of concepts of the potagonists in the movie: Jongsu, Haemi and Ben. Different SFX and Assets convey the markup of the movie.
+The goal is to introduce filmgoers the many dualities and interpretations of the many facets of the movie. When playing the VR- game, the player enters different rooms originating of concepts of the protagonists in the movie: Jongsu, Haemi and Ben. Different SFX and Assets convey the markup of the movie.
 
 ## Installation
 
